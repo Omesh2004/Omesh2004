@@ -15,4 +15,6 @@ Let’s connect! I’m always up for collabs, crazy project ideas, or just geeki
 📫 **Say hi**  
 [GitHub](https://github.com/Omesh2004) • [LinkedIn]([https://linkedin.com/in/OmeshMehta](https://www.linkedin.com/in/omesh-mehta-551080298/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
+You can mail me at :omeshmehta70@gmail.com
+
 P.S. If you're good at TT, challenge accepted 🏓
