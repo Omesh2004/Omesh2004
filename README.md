@@ -1,6 +1,6 @@
 ### Hey there! 👋 I'm Omesh
 
-I'm a curious mind who loves turning cool ideas into working products. Whether it's revamping the [IIT Patna Official Website](#) or experimenting with AI and Indian classical music through the **Indian Classical Music Explorer**, I enjoy building full-stack stuff that actually makes life a bit better.
+I'm a curious mind who loves turning cool ideas into working products. Whether it's revamping the [IIT Pexperimenting with AI and Indian classical music through the **Indian Classical Music Explorer**, I enjoy building full-stack stuff that actually makes life a bit better.
 
 - 🛠️ I tinker, I build, I break (and fix) things.
 - 👨‍💻 Hackathon junkie | Open-source explorer | Big on tech that makes noise (AI, blockchain, quantum—yes, all the buzzwords).
