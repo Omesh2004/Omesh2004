@@ -1,19 +1,21 @@
-### Hey there! 👋 I'm Omesh
+Hi, I’m Omesh Mehta
 
-I'm a curious mind who loves turning cool ideas into working products. Whether it's revamping the [IIT Pexperimenting with AI and Indian classical music through the **Indian Classical Music Explorer**, I enjoy building full-stack stuff that actually makes life a bit better.
+I’m a student at IIT Patna who enjoys turning ideas into things that actually work. I like building full-stack systems, experimenting with emerging technologies, and understanding how different fields connect with each other. I’ve worked on projects ranging from revamping large institutional websites to exploring AI and Indian classical music through the Indian Classical Music Explorer.
 
-- 🛠️ I tinker, I build, I break (and fix) things.
-- 👨‍💻 Hackathon junkie | Open-source explorer | Big on tech that makes noise (AI, blockchain, quantum—yes, all the buzzwords).
-- Currently exploring various fields like Open Source ML and blockchain.I feel you should atleast know the basics of every field and be a master in any one of them.
+I enjoy the process of building—breaking things, fixing them, and improving them along the way. I actively participate in hackathons, contribute to open-source when I can, and spend a lot of time exploring areas like machine learning and blockchain. I believe it’s important to understand the fundamentals of many fields while developing deep expertise in at least one.
 
-When I’m not staring at VS Code, I’m probably smashing forehands at a table tennis match,Gym workout, rewatching Interstellar, or Watching Netflix.
-Let’s connect! I’m always up for collabs, crazy project ideas, or just geeking out over tech.
+I was a Silver Medalist at Inter IIT Tech Meet 14.0, which strengthened my interest in collaborative problem-solving and building under pressure.
 
-> ⚡ Scroll down to see what I’ve been building — powered by curiosity, caffeine,a pinch of chaos and also sacrificing my sleep.
+Outside of coding, I play table tennis, work out regularly, and unwind by rewatching Interstellar or watching shows on Netflix.
 
-📫 **Say hi**  
-[GitHub](https://github.com/Omesh2004) • [LinkedIn]([https://linkedin.com/in/OmeshMehta](https://www.linkedin.com/in/omesh-mehta-551080298/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+Scroll down to see some of the things I’ve been building—driven by curiosity, long nights, and a genuine interest in learning.
 
-You can mail me at :omeshmehta70@gmail.com
+Contact
 
-P.S. If you're good at TT, challenge accepted 🏓
+GitHub: https://github.com/Omesh2004
+
+LinkedIn: https://www.linkedin.com/in/omesh-mehta-551080298/
+
+Email: omeshmehta70@gmail.com
+
+If you’re into table tennis and think you play well, I’m always up for a match.
